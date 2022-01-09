@@ -4,6 +4,7 @@ on:
   push:
     branches:
     - master
+    - kojix2-ci-ruby-3.1
   pull_request:
     types:
     - opened
